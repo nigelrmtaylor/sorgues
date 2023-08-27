@@ -1,0 +1,19 @@
+{
+  "name": "sorgues",
+  "version": "1.0.0",
+  "description": "to test itegration with google calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sorgues"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^126.0.1"
+  }
+}
